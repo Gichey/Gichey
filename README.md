@@ -2,7 +2,7 @@
     <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
 </a>
 <h2>
-    <samp>Hi there! I'm Gichey.</samp>
+    <samp>Hi there! I'm Gichey.Inc</samp>
 </h2>
 <p>
     <samp>
@@ -14,7 +14,7 @@
     <strong>Do have faith in what you're doing.</strong>
 <p>
     <a href="https://t.me/kallydev">
-        <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram.svg"/>
+        <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/telegram.svg"/>
     </a>
     <a href="https://twitter.com/kallydev">
         <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/twitter.svg"/>
