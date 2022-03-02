@@ -2,7 +2,7 @@
     <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
 </a>
 <h2>
-    <samp>Hi there, thanks for stopping by, this is Gichey.Inc from China, base in Wuhan.</samp>
+    <samp>Hi there! thanks for stopping by, this is Gichey.Inc from China, base in Wuhan.</samp>
 </h2>
 <p>
     <samp>
@@ -14,19 +14,19 @@
     <strong>Do have faith in what you're doing.</strong>
 <p>
     <a href="https://t.me/kallydev">
-        <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/telegram.svg"/>
+        <img alt="Gichey.Inc Telegram" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/telegram.svg"/>
     </a>
     <a href="https://twitter.com/kallydev">
-        <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/twitter.svg"/>
+        <img alt="Gichey.Inc Twitter" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/twitter.svg"/>
     </a>
     <a href="https://gitlab.com/kallydev">
-        <img alt="KallyDev's GitLab" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gitlab.svg"/>
+        <img alt="Gichey.Inc GitLab" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gitlab.svg"/>
     </a>
-    <a href="mailto:kallydev@gmail.com">
-        <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gmail.svg"/>
+    <a href="mailto:root@90cto.com">
+        <img alt="Gichey.Inc Email" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gmail.svg"/>
     </a>
     <a href="https://blockscan.com/address/0x000000A52a03835517E9d193B3c27626e1Bc96b1">
-        <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/ethereum.svg"/>
+        <img alt="Gichey.Inc Ethereum" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/ethereum.svg"/>
     </a>
     <br/>
     <a href="https://www.mozilla.org/firefox/developer/">
@@ -61,7 +61,7 @@
 </p>
 
 ```typescript
-const kallydev = {
+const gichey = {
     pronouns: ["He", "Him"],
     hobby: ["Coffee", "Programming", "Music", "Painting"],
     languages: ["Go", "Kotlin", "TypeScript", "Python", 'Java', 'Rust', 'C++', "Bash", "Dart"],
@@ -79,14 +79,14 @@ const kallydev = {
                 kotlin: ["Ktor", "Spring Boot"],
                 python: ["Flask"],
             },
-            databases: ["PostgreSQL", "Redis", "MariaDB"],
-            devops: ["Docker", "Kubernetes", "Nginx"],
+            databases: ["Redis", "MariaDB"],
+            devops: ["Nginx"],
             microservice: {
                 protocol: ["RESTful", "gRPC"],
                 messageQueues: ["RabbitMQ"],
             },
         },
-        systems: ["macOS", "Ubuntu", "Windows Server", "iOS", "Android"],
+        systems: ["Centos", "Windows Server", "iOS", "Android"],
         editors: ["JetBrains Tools", "Visual Studio Code", "Vim"],
     }
 }
