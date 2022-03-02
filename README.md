@@ -47,7 +47,7 @@
 
 <details>
     <summary>
-        <b>More about me</b>
+        <b>More About me</b>
     </summary>
 
 [![](https://github.com/kallydev/kallydev/blob/main/images/banner.png)](https://kallydev.com)
