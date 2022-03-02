@@ -17,26 +17,26 @@
         <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/telegram.svg"/>
     </a>
     <a href="https://twitter.com/kallydev">
-        <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/twitter.svg"/>
+        <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/twitter.svg"/>
     </a>
     <a href="https://gitlab.com/kallydev">
-        <img alt="KallyDev's GitLab" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gitlab.svg"/>
+        <img alt="KallyDev's GitLab" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gitlab.svg"/>
     </a>
     <a href="mailto:kallydev@gmail.com">
-        <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gmail.svg"/>
+        <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gmail.svg"/>
     </a>
     <a href="https://blockscan.com/address/0x000000A52a03835517E9d193B3c27626e1Bc96b1">
-        <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/ethereum.svg"/>
+        <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/ethereum.svg"/>
     </a>
     <br/>
     <a href="https://www.mozilla.org/firefox/developer/">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_developer.svg"/>
+        <img align="right" width="48px" src="https://github.com/Gichey/gichey/raw/main/images/firefox_developer.svg"/>
     </a>
     <a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_nightly.svg"/>
+        <img align="right" width="48px" src="https://github.com/Gichey/gichey/raw/main/images/firefox_nightly.svg"/>
     </a>
     <a href="https://www.mozilla.org/firefox/new/">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
+        <img align="right" width="48px" src="https://github.com/Gichey/gichey/raw/main/images/firefox.svg"/>
     </a>
 </p>
 
@@ -93,6 +93,6 @@ const kallydev = {
 ```
 
 <p align="right">
-    Designed with :heart: by <a href="https://github.com/Gichey" target="_blank">KallyDev</a>.
+    Designed with :heart: by <a href="https://github.com/Gichey" target="_blank">gichey</a>.
 </p>
 </details>
