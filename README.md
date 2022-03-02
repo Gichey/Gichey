@@ -2,7 +2,7 @@
     <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
 </a>
 <h2>
-    <samp>Hi there! I'm Gichey.Inc</samp>
+    <samp>Hi there, thanks for stopping by, this is Gichey.Inc from China, base in Wuhan.</samp>
 </h2>
 <p>
     <samp>
