@@ -12,7 +12,7 @@
 </p>
 <br/>
 <a href="https://github.com/Gichey" target="_blank">
-    <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Gichey&theme=dark&show_icons=true"/>
+    <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Gichey&theme=tokyonight&show_icons=true"/>
 </a>
 <br/><br/>
 <p>
