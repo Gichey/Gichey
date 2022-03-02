@@ -1,4 +1,4 @@
-<a href="https://t.me/joinchat/m9aY4pQ2HL1lMDEx" target="_blank">
+<a href="https://www.90cto.com" target="_blank">
     <img align="right" width="128px" src="https://github.com/Gichey/gichey/raw/main/images/wechat_group.jpg"/>
 </a>
 <h2>
@@ -18,19 +18,19 @@
 <p>
     <strong>Do have faith in what you're doing.</strong>
 <p>
-    <a href="https://t.me/kallydev">
+    <a href="https://t.me/#">
         <img alt="Gichey.Inc Telegram" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/telegram.svg"/>
     </a>
-    <a href="https://twitter.com/kallydev">
+    <a href="https://twitter.com/#">
         <img alt="Gichey.Inc Twitter" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/twitter.svg"/>
     </a>
-    <a href="https://gitlab.com/kallydev">
+    <a href="https://gitlab.com/#">
         <img alt="Gichey.Inc GitLab" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gitlab.svg"/>
     </a>
     <a href="mailto:root@90cto.com">
         <img alt="Gichey.Inc Email" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/gmail.svg"/>
     </a>
-    <a href="https://blockscan.com/address/0x000000A52a03835517E9d193B3c27626e1Bc96b1">
+    <a href="https://blockscan.com/#">
         <img alt="Gichey.Inc Ethereum" align="left" width="24px" src="https://github.com/Gichey/gichey/raw/main/images/ethereum.svg"/>
     </a>
     <br/>
