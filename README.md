@@ -10,7 +10,13 @@
         source, and most of the time I'm active on GitHub.
     </samp>
 </p>
+<!--
+<a href="https://github.com/wuhan005?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true" width="45%" />
+</a>
+-->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Gichey&theme=dark&show_icons=true)](https://github.com/Gichey)
+
 <p>
     <strong>Do have faith in what you're doing.</strong>
 <p>
