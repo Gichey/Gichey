@@ -1,5 +1,5 @@
 <a href="https://t.me/joinchat/m9aY4pQ2HL1lMDEx" target="_blank">
-    <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
+    <img align="right" width="128px" src="https://github.com/Gichey/gichey/raw/main/images/wechat_group.jpg"/>
 </a>
 <h2>
     <samp>Hi there! thanks for stopping by, this is Gichey.Inc from China, base in Wuhan.</samp>
