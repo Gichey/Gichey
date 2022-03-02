@@ -10,10 +10,11 @@
         source, and most of the time I'm active on GitHub.
     </samp>
 </p>
-<a href="https://github.com/Gichey" target="_blank">
-    <img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=Gichey&theme=dark&show_icons=true"/>
-</a>
 <br/>
+<a href="https://github.com/Gichey" target="_blank">
+    <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Gichey&theme=dark&show_icons=true"/>
+</a>
+<br/><br/>
 <p>
     <strong>Do have faith in what you're doing.</strong>
 <p>
