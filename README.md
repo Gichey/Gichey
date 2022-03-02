@@ -10,6 +10,7 @@
         source, and most of the time I'm active on GitHub.
     </samp>
 </p>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Gichey&theme=dark&show_icons=true)](https://github.com/Gichey)
 <p>
     <strong>Do have faith in what you're doing.</strong>
 <p>
